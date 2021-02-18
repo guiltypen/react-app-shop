@@ -36,3 +36,6 @@
     transform: rotate(360deg);
   }
 }
+.Moon{
+ max-width: 15%;
+}
